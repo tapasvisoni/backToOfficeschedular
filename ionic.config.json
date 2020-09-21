@@ -1,0 +1,7 @@
+{
+  "name": "bto1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

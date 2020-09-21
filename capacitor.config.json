@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "bto1",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
